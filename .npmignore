@@ -1,0 +1,17 @@
+.DS_STORE
+*.log
+
+node_modules
+
+build
+coverage
+.idea/
+
+src
+.babelrc
+.editorconfig
+.eslintignore
+.eslintrc
+.gitignore
+.travis.yml
+npm.txt
